@@ -75,7 +75,7 @@
 
       <div class="content">
         <div class="m-b-md">
-          Jonathon Ball <i>dot com</i>
+          Jonathon Ball <i>(dot)</i> com
         </div>
 
         <div class="links">
