@@ -79,7 +79,6 @@
         </div>
 
         <div class="links">
-          <a href="#">New Content Coming Soon</a>
           <ul class="naked-list horizontal-list">
             <li>
               <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="images/glyph-logo_May2016.png"/></a>
