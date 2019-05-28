@@ -75,7 +75,7 @@
 
       <div class="content">
         <div class="m-b-md">
-          <img src="images/jball-port.jpg"/>
+          <img src="images/jball-port.jpg"/><br />
           Jonathon Ball <i>(dot)</i> com
         </div>
 
