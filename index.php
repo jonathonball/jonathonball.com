@@ -82,16 +82,16 @@
         <div class="links">
           <ul class="naked-list horizontal-list">
             <li>
-              <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="images/glyph-logo_May2016.png"/></a>
+              <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="images/logo/glyph-logo_May2016.png"/></a>
             </li>
             <li>
-              <a href="https://github.com/jonathonball"><img class="logo" src="images/GitHub-Mark-120px-plus.png"/></a>
+              <a href="https://github.com/jonathonball"><img class="logo" src="images/logo/GitHub-Mark-120px-plus.png"/></a>
             </li>
             <li>
-              <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="images/f_logo_RGB-Black_72.png"/></a>
+              <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="images/logo/f_logo_RGB-Black_72.png"/></a>
             </li>
             <li>
-              <a href="https://cornerofattention.com"><img class="logo" src="images/Tumblr_Logos_2018.03.06_tIconBlack.png"/></a>
+              <a href="https://cornerofattention.com"><img class="logo" src="images/logo/Tumblr_Logos_2018.03.06_tIconBlack.png"/></a>
             </li>
           </ul>
         </div>
