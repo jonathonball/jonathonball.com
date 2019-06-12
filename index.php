@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
 
     <style>
-      span {
+      p {
         font-family: 'Permanent Marker', cursive;
         font-size: 48px;
       }
@@ -26,12 +26,12 @@
     <div class="container-fluid">
       <div class="row justify-content-center">
         <div class="col-8 py-3">
-          <img class="mx-auto d-block" src="images/jball-port.jpg" width="544px" title="Alfonso Ribeiro's projection of joy depicted here; warms my heart."/>
+          <img class="mx-auto d-block img-fluid" src="images/jball-port.jpg" width="544px" title="Alfonso Ribeiro's projection of joy depicted here; warms my heart."/>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-6 py-3">
-          <span>Jonathon Ball <i>(dot)</i> com</span>
+          <p class="text-center">Jonathon Ball <i>(dot)</i> com</p>
         </div>
       </div>
       <div class="row justify-content-center">
