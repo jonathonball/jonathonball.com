@@ -15,7 +15,7 @@
     <style>
       p {
         font-family: 'Permanent Marker', cursive;
-        font-size: 48px;
+        font-size: 42px;
       }
       .logo {
         max-height: 50px;
@@ -26,7 +26,7 @@
     <div class="container-fluid">
       <div class="row justify-content-center">
         <div class="col-8 py-3">
-          <img class="mx-auto d-block img-fluid" src="images/jball-port.jpg" width="544px" title="Alfonso Ribeiro's projection of joy depicted here; warms my heart."/>
+          <img class="mx-auto d-block img-fluid" src="images/jball-port.jpg" width="544px"/>
         </div>
       </div>
       <div class="row justify-content-center">
