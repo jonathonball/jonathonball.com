@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-100">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,38 +15,50 @@
     <style>
       p {
         font-family: 'Permanent Marker', cursive;
-        font-size: 42px;
+        font-size: 30px;
       }
       .logo {
         max-height: 50px;
       }
     </style>
   </head>
-  <body>
-    <div class="container-fluid">
-      <div class="row justify-content-center">
-        <div class="col-8 py-3">
-          <img class="mx-auto d-block img-fluid" src="images/jball-port.jpg" width="544px"/>
+  <body class="h-100">
+    <div class="container-fluid h-100">
+      <div class="row h-100 align-items-center">
+
+        <div class="container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-3 text-center">
+              <a href="images/jball-left-face.jpg"><img class="img-fluid" src="images/jball-left-face-250.jpg"/></a>
+            </div>
+            <div class="col-3 text-center">
+              <a href="images/jball-center-face.jpg"><img class="img-fluid" src="images/jball-center-face-250.jpg"/></a>
+            </div>
+            <div class="col-3 text-center">
+              <a href="images/jball-right-face.jpg"><img class="img-fluid" src="images/jball-right-face-250.jpg"/></a>
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-6 py-3">
+              <p class="text-center">Jonathon Ball <i>(dot)</i> com</p>
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-xs-1 p-2">
+              <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="images/logo/glyph-logo_May2016.png"/></a>
+            </div>
+            <div class="col-xs-1 p-2">
+              <a href="https://github.com/jonathonball"><img class="logo" src="images/logo/GitHub-Mark-120px-plus.png"/></a>
+            </div>
+            <div class="col-xs-1 p-2">
+              <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="images/logo/f_logo_RGB-Black_72.png"/></a>
+            </div>
+            <div class="col-xs-1 p-2">
+              <a href="https://cornerofattention.com"><img class="logo" src="images/logo/Tumblr_Logos_2018.03.06_tIconBlack.png"/></a>
+            </div>
+          </div>
         </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-6 py-3">
-          <p class="text-center">Jonathon Ball <i>(dot)</i> com</p>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-xs-1 p-2">
-          <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="images/logo/glyph-logo_May2016.png"/></a>
-        </div>
-        <div class="col-xs-1 p-2">
-          <a href="https://github.com/jonathonball"><img class="logo" src="images/logo/GitHub-Mark-120px-plus.png"/></a>
-        </div>
-        <div class="col-xs-1 p-2">
-          <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="images/logo/f_logo_RGB-Black_72.png"/></a>
-        </div>
-        <div class="col-xs-1 p-2">
-          <a href="https://cornerofattention.com"><img class="logo" src="images/logo/Tumblr_Logos_2018.03.06_tIconBlack.png"/></a>
-        </div>
+
       </div>
     </div>
   </body>
